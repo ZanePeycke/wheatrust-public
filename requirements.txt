@@ -85,7 +85,7 @@ pytz==2019.3
 PyYAML==5.3
 pyzmq==18.1.1
 requests==2.21.0
-rsa==4.0
+rsa==4.1
 scipy==1.4.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
